@@ -18,4 +18,7 @@ The plugin will be included automatically when you include the package *ROI*, so
 ```
 library(ROI)
 ```
-in order to use it. 
+in order to use it. You can verify if *ROI.plugin.gurobi* is registered to *ROI* by typing the following in R console. 
+```
+ROI_registered_solvers()
+```
