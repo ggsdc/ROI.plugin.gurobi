@@ -1,16 +1,16 @@
 Package: ROI.plugin.gurobi
-Version: 0.0-1
+Version: 0.1.0
 Date: 2016-01-08
 Title: ROI-plugin Gurobi
-Authors@R: c(person("Kuo", "Liu",  email = "kliu@alteryx.com"))
+Authors@R: c(person("Guillermo", "González-Santander",  email = "g.gsantanderdelacruz@gmail.com"))
 Description: This package enhances the R Optimization Infrastructure (ROI) package
 	     with the Gorubi R API for solving mixed integer linear programming (MILP)
 	     problems as well as all variants/combinations of LP, IP.
-Imports: methods, ROI (>= 0.1-0), gurobi
+Imports: methods, ROI (>= 0.2-1), gurobi
 License: GPL-3
 URL: http://R-Forge.R-project.org/projects/roi
 Packaged: 2016-01-08 11:11:11 UTC;
 Author: Kuo Liu
-Maintainer: Kuo Liu <kliu@alteryx.com>
+Maintainer: Guillermo González-Santander <g.gsantanderdelacruz@gmail.com>
 NeedsCompilation: no
-Date/Publication: 2016-01-18 11:01:18
+Date/Publication: 2016-12-29 11:01:18
